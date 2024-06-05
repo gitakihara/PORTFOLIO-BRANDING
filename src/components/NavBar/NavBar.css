@@ -1,0 +1,6 @@
+.logo2 {
+    width: 100px;  /* Adjust the size as needed */
+    height: 80px;  /* Maintains the aspect ratio */
+    border-radius: 15px;  /* Adjust the value for more or less rounding */
+    border: 2px solid #000;  /* Optional: adds a border around the image */
+  }
